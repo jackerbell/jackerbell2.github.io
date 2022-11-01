@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jackerbell2.github.io/static/css/main.2f6d104d.css",
+    "main.css": "/jackerbell2.github.io/static/css/main.401225ae.css",
     "main.js": "/jackerbell2.github.io/static/js/main.034aeec5.js",
     "static/js/787.776cbf08.chunk.js": "/jackerbell2.github.io/static/js/787.776cbf08.chunk.js",
     "index.html": "/jackerbell2.github.io/index.html",
-    "main.2f6d104d.css.map": "/jackerbell2.github.io/static/css/main.2f6d104d.css.map",
+    "main.401225ae.css.map": "/jackerbell2.github.io/static/css/main.401225ae.css.map",
     "main.034aeec5.js.map": "/jackerbell2.github.io/static/js/main.034aeec5.js.map",
     "787.776cbf08.chunk.js.map": "/jackerbell2.github.io/static/js/787.776cbf08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6d104d.css",
+    "static/css/main.401225ae.css",
     "static/js/main.034aeec5.js"
   ]
 }
